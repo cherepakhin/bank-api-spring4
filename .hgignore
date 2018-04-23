@@ -1,0 +1,6 @@
+syntax: glob
+.idea
+.tmp
+target
+.git
+.mvn
