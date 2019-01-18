@@ -23,6 +23,9 @@
 - Spring jpa data
 
 
+[Демо-версия](http://v.el59.ru/bank)
+
+
 Запуск тестов:
 ```
 mvn test
