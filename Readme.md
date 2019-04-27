@@ -23,7 +23,7 @@
 - Spring jpa data
 
 
-[Демо-версия](http://v.el59.ru/bank)
+[Демо-версия](http://v.perm.ru/bank)
 
 
 Запуск тестов:
@@ -38,8 +38,10 @@ mvn package
 
 Запуск приложения
 ```bash
-mvn tomcat7:run
+mvn tomcat8:run
 ```
+Для запуска в "боевом" режиме требуется tomcat 8.
+
 Rest-сервисы будут доступны по адресу:
 ```
 http://localhost:8080/api/{сервис}
